@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkleather221" alt="pinkleather221" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Hands-on Lab Portfolio**
+- 🔭 I’m currently working on **https://smart-path-app.vercel.app/**
 
 - 🌱 I’m currently learning **AWS Cloud & DevOps Tools - React + Tailwind CSS - Docker and GitHub Actions - Python for Data Science**
 
