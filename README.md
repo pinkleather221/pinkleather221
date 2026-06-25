@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelly Mogere</h1>
-<h3 align="center">Passionate about building scalable software and exploring the cloud.</h3>
+<h3 align="center">Passionate about cleaning messy data and gaining insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkleather221&label=Profile%20views&color=0e75b6&style=flat" alt="pinkleather221" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **https://smart-path-app.vercel.app/**
 
-- 🌱 I’m currently learning **AWS Cloud & DevOps Tools - React + Tailwind CSS - Docker and GitHub Actions - Python for Data Science**
+- 🌱 I’m currently building projects in  **Excel,Power BI ,Jupyter Notebook, Python**
 
-- 💬 Ask me about **-robotics, AWS cloud, django , php**
+- 💬 Ask me about ** AWS cloud, ETL, data analytics and science**
 
 - 📫 How to reach me **gesare100@gmail.com**
 
