@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkleather221" alt="pinkleather221" /></a> </p>
 
-- 🔭 I’m currently working on **https://smart-path-app.vercel.app/**
+- 🔭 I’m currently working on **https://pinkleather221.github.io/Data--Analyst-Portfolio/**
 
 - 🌱 I’m currently building projects in  **Excel,Power BI ,Jupyter Notebook, Python**
 
