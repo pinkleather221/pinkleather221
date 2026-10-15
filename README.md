@@ -15,15 +15,6 @@
 
 - ⚡ Fun fact **I think I'm funny but my console logs disagree 😅**
 
-<h3 align="left">🚀 Pinned Projects</h3>
-
-- **[AfyaFlow Pwani](https://github.com/pinkleather221/afyaflow-pwani)** — Offline-first Gemma 4 assistant that turns multilingual text, short voice notes and photos of stock cards into verified medicine inventory records, early stock-out warnings and explainable resource-redistribution recommendations for frontline health centres in coastal Kenya. *(Python)*
-- **[Rhea Crop Recommendations](https://github.com/pinkleather221/Rhea-crop-recommendations)** — End-to-end data science assessment on a 1M-row Kaggle crop-yield dataset: cleaning, exploratory analysis, feature engineering, rule-based plus nearest-neighbour recommendation logic, and a bonus Streamlit dashboard with LLM-generated insights. *(Jupyter/Python)*
-- **[Greenwood SQL](https://github.com/pinkleather221/Greenwood_SQL)** — Intermediate PostgreSQL practice built on a Greenwood Academy school database, covering DDL/DML, filtering and operators, string/date functions, aggregates, `CASE WHEN` and subqueries, organised into progressive section files. *(SQL)*
-- **[Kenya Femicide Analysis](https://github.com/pinkleather221/kenya-femicide-analysis)** — An Excel data story analysing 507 documented femicide cases in Kenya (2016–2023) with Power Query, Pivot Tables and an interactive dashboard to surface patterns by county, suspect relationship and method of killing. *(Excel)*
-- **[Power BI End-to-End Education Analytics](https://github.com/pinkleather221/Power-BI-End-to-End-Education-Data-Analysis-)** — Full business-intelligence lifecycle: connecting to PostgreSQL, cleaning dirty education data, modelling a star schema, writing reusable DAX measures and delivering an interactive Power BI dashboard. *(Power BI)*
-- **[Multi-Regional Sales Operations Dashboard](https://github.com/pinkleather221/Multi-Regional-Sales-Operations-Excel-Dashboard-cleaned-data)** — Cleaning and analysis of transactional sales data for a multi-regional electronics distributor, producing profit, channel-mix, salesperson and service-level insights in an Excel dashboard. *(Excel)*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nellymogere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nellymogere" height="30" width="40" /></a>
