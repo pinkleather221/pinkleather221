@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelly Mogere</h1>
 <h3 align="center">Passionate about cleaning messy data and gaining insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkleather221&label=Profile%20views&color=0e75b6&style=flat" alt="pinkleather221" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkleather221" alt="pinkleather221" /></a> </p>
 
 - 🔭 I’m currently working on **https://pinkleather221.github.io/Data--Analyst-Portfolio/**
 
